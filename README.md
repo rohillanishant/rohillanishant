@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohillanishant19@gmail.com**
 
-- 📄 Know about my experiences [app.rezi.ai/s/5yzA6L1jwlmRZq9h501J](app.rezi.ai/s/5yzA6L1jwlmRZq9h501J)
+- 📄 Know about my experiences [https://linktr.ee/_nishant]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
