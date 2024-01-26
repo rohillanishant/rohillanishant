@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-![Nishant](https://github.com/rohillanishant/rohillanishant/assets/67462478/97628399-16ca-4672-b395-de41b742e5d3)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohillanishant&label=Profile%20views&color=0e75b6&style=flat" alt="rohillanishant" /> </p>
 
@@ -14,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  ![Nishant](https://github.com/rohillanishant/rohillanishant/assets/67462478/97628399-16ca-4672-b395-de41b742e5d3)
 <a href="https://linkedin.com/in/www.linkedin.com/in/nishantrohilla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nishantrohilla/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/rohillanishant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rohillanishant" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/_nishant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_nishant/" height="30" width="40" /></a>
